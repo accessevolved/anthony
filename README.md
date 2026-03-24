@@ -48,5 +48,5 @@ Processed 854,000+ NPI records through a local Nominatim geocoding server with G
 ## Let's Work Together
 
 - 🌐 [accessevolved.com](https://accessevolved.com)
-- 💼 [Upwork Profile]([https://www.upwork.com](https://www.upwork.com/freelancers/anthonypasseri) *(add your direct link here)*
+- 💼 [Upwork Profile]([https://www.upwork.com](https://www.upwork.com/freelancers/anthonypasseri)) *(add your direct link here)*
 - 📍 Phoenix, Arizona
